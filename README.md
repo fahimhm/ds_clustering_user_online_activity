@@ -3,6 +3,7 @@
 ## Project Title: Customer Segmentation and Persona Development From Their Online Activity
 
 Author: Fahim Hadi Maula
+
 Date: September 6th, 2025
 
 ### Executive Summary
